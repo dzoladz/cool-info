@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technologies on Consortium of Ohio Libraries</title>
+    <link>https://dzoladz.github.io/cool-info/technology/</link>
+    <description>Recent content in Technologies on Consortium of Ohio Libraries</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Consortium of Ohio Libaries</copyright>
+    <lastBuildDate>Thu, 31 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/cool-info/technology/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Technology</title>
+      <link>https://dzoladz.github.io/cool-info/technology/technology/</link>
+      <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dzoladz.github.io/cool-info/technology/technology/</guid>
+      <description>
+
+&lt;p&gt;The Consortium of Ohio Libraries integrates a broad spectrum of open source technology to support day-to-day library operations, while collaborating with a carefully curated set of technology partners to provide a superior quality of service to our growing library community.&lt;br /&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;evergreen-ils-https-evergreen-ils-org&#34;&gt;&lt;a href=&#34;https://evergreen-ils.org/&#34; target=&#34;_blank&#34;&gt;Evergreen ILS&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Evergreen is a highly-scalable, fully-featured open source ILS that is currently used by over 2,000 libraries both in the US and internationally, with an active and growing community of developers and users.&lt;/p&gt;
+
+&lt;h2 id=&#34;libki-http-libki-org&#34;&gt;&lt;a href=&#34;http://libki.org/&#34; target=&#34;_blank&#34;&gt;Libki&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Libki is a cross-platform open source computer reservation &amp;amp; time management system with the ability to provide single sign-on authentication with a SIP2-compliant ILS.&lt;/p&gt;
+
+&lt;h2 id=&#34;libreoffice-https-www-libreoffice-org&#34;&gt;&lt;a href=&#34;https://www.libreoffice.org&#34; target=&#34;_blank&#34;&gt;LibreOffice&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;LibreOffice is an open source, feature-complete office productivity suite. LibreOffice utilizes the OpenDocument Text format, a preservation-quality ISO standardized format.&lt;/p&gt;
+
+&lt;h2 id=&#34;concrete5-https-www-concrete5-org&#34;&gt;&lt;a href=&#34;https://www.concrete5.org&#34; target=&#34;_blank&#34;&gt;concrete5&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;concrete5 is an open source content management system designed for rapid development of web content with intuitive controls.&lt;/p&gt;
+
+&lt;h2 id=&#34;screenly-ose-https-www-screenly-io-ose&#34;&gt;&lt;a href=&#34;https://www.screenly.io/ose&#34; target=&#34;_blank&#34;&gt;Screenly OSE&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Open source, digital signage solution that is designed to run on lightweight hardware such as the Raspberry Pi. Screenly OSE can be used to inform patrons of new services, provide programming announcements, or display the day&amp;rsquo;s event schedule.&lt;/p&gt;
+
+&lt;h2 id=&#34;etcher-https-etcher-io&#34;&gt;&lt;a href=&#34;https://etcher.io&#34; target=&#34;_blank&#34;&gt;Etcher&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Etcher is a dependable, open source utility for flashing operating system images to an SDCard or USB drive&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cataloging on Consortium of Ohio Libraries</title>
+    <link>https://dzoladz.github.io/cool-info/tags/cataloging/</link>
+    <description>Recent content in Cataloging on Consortium of Ohio Libraries</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Consortium of Ohio Libaries</copyright>
+    <lastBuildDate>Mon, 20 Jul 2015 13:33:00 +0000</lastBuildDate>
+    <atom:link href="/cool-info/tags/cataloging/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Authority Anyone?</title>
+      <link>https://dzoladz.github.io/cool-info/post/authority/</link>
+      <pubDate>Mon, 20 Jul 2015 13:33:00 +0000</pubDate>
+      
+      <guid>https://dzoladz.github.io/cool-info/post/authority/</guid>
+      <description>&lt;p&gt;One of the biggest factors in having a successful catalog for your library or consortium is having good records!&lt;/p&gt;
+
+&lt;p&gt;With this in mind, COOL has very recently partnered with Backstage Library Works (BSLW) and has instituted ongoing authority control for the catalog/database.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://dzoladz.github.io/cool-info/img/auth_control.png&#34; alt=&#34;image of a record&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ongoing, we will be loading both updated bibliographic records as well as authority records in an ongoing quarterly process.  At the same time, we’re instituting manual authority control procedures for locally created and eBook records.&lt;/p&gt;
+
+&lt;p&gt;While it’s certainly never easy, the end result will be a better catalog for both our patrons and staff!  If you have any questions for your library, drop us a line–we’ll be glad to help!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
