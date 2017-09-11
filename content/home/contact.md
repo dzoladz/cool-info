@@ -16,4 +16,4 @@ autolink = true
 
 +++
 
-COOL welcomes new members. If you are interested becoming a COOL library, or if you want more information on the consortium or Evergreen, contact Matt Polcyn at OhioNET!
+COOL welcomes new members. If you are interested becoming a COOL library, or if you want more information on the consortium or Evergreen, contact Matt Polcyn, Director of Technology Services at OhioNET.
