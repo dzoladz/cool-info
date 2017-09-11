@@ -1,4 +1,5 @@
-baseurl = "https://example.com/"  # End your URL with a `/` trailing slash.
+baseurl = "https://dzoladz.github.io/cool-info/"  # End your URL with a `/` trailing slash. Github Deploy.
+publishDir = "docs"
 title = "Consortium of Ohio Libraries"
 copyright = "&copy; 2017 Consortium of Ohio Libaries"
 theme = "academic"
