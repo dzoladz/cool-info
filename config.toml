@@ -18,7 +18,7 @@ defaultContentLanguageInSubdir = false
 
 # Blackfriday Parameters
 [blackfriday]
-  hrefTargetBlank = true
+  hrefTargetBlank = false
 
 # Page Parameters
 [params]
