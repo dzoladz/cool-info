@@ -23,7 +23,7 @@ defaultContentLanguageInSubdir = false
 # Page Parameters
 [params]
   ## Organization Contact Information
-  name = "SuperCat"
+  name = "COOL-CAT"
   role = "Powered by Evergreen ILS"
   organization = "Consortial Catalog"
   organization_url = "http://cool-cat.org"
