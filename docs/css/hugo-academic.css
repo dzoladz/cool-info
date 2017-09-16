@@ -899,9 +899,10 @@ nav#navbar-main li {
 }
 
 .navbar-default .navbar-brand {
+  font-family: 'Arial Rounded MT Bold', Arial, sans-serif; # COOL branding is 'Arial Rounded MT Bold'
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 1.2em;
+  font-size: 1.3em;
   color: #2b2b2b;
 }
 
