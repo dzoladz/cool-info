@@ -27,11 +27,10 @@ weight = 1
 
 +++
 
+<p style="text-align: center; font-size: 24px; font-weight: bold;">Open Source, Open Access, Unlimited Possibilities</p>
+
 Consortium of Ohio Libraries (COOL) is comprised of independent libraries that are striving to provide high-quality library services while being more efficient and prudent with diminishing public resources.
 
-{{% alert note %}}
-Currently working on the following pages at the moment:  
-[Bylaws]({{< ref "policy/bylaws.md" >}})  
-[Principles of Cooperation]({{< ref "policy/principles.md" >}})  
-[Technology]({{< ref "technology/technology.md" >}})
-{{% /alert %}}
+COOL is governed by a set of [Bylaws]({{< ref "policy/bylaws.md" >}}) and [Principles of Cooperation]({{< ref "policy/principles.md" >}}). 
+
+<!-- Did we mention our use of open source [Technology]({{< ref "technology/technology.md" >}}) to support day-to-day library operations? -->
