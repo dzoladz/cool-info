@@ -24,3 +24,5 @@ weight = 60
 - [Selover Public Library](http://selover.lib.oh.us/)
 - [Worch Memorial Public Library](https://www.worch.lib.oh.us/)
 - [Wornstaff Memorial Library](https://www.wornstafflibrary.com/)
+
+<iframe seamless src="maps/map.html" width="100%" height="500" frameborder="0"></iframe>
