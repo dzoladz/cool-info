@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS = false; L_NO_TOUCH = false; L_DISABLE_3D = false;</script>
+    <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.0.0/leaflet.markercluster-src.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.0.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.0.0/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.0.0/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://rawgit.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <style> #map_9a208701356e4d65a2714b2f0d02a052 {
+                position : relative;
+                width : 600.0px;
+                height: 500.0px;
+                left: 0.0%;
+                top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_9a208701356e4d65a2714b2f0d02a052" ></div>
+        
+</body>
+<script>    
+    
+
+            
+                var southWest = L.latLng(-90, -180);
+                var northEast = L.latLng(90, 180);
+                var bounds = L.latLngBounds(southWest, northEast);
+            
+
+            var map_9a208701356e4d65a2714b2f0d02a052 = L.map(
+                                  'map_9a208701356e4d65a2714b2f0d02a052',
+                                  {center: [40.33,-82.99],
+                                  zoom: 7,
+                                  maxBounds: bounds,
+                                  layers: [],
+                                  worldCopyJump: false,
+                                  crs: L.CRS.EPSG3857
+                                 });
+            
+        
+    
+            var tile_layer_dd67807749e14982b72c17ac820537a4 = L.tileLayer(
+                'https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png',
+                {
+                    maxZoom: 18,
+                    minZoom: 1,
+                    continuousWorld: false,
+                    noWrap: false,
+                    attribution: '(c) <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors (c) <a href="http://cartodb.com/attributions">CartoDB</a>, CartoDB <a href ="http://cartodb.com/attributions">attributions</a>',
+                    detectRetina: false
+                    }
+                ).addTo(map_9a208701356e4d65a2714b2f0d02a052);
+
+        
+    
+
+            var marker_426a44c3f6924c249ee5bed16ea35b1f = L.marker(
+                [39.992447,-84.554463],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_9a208701356e4d65a2714b2f0d02a052);
+            
+    
+
+                var custom_icon_3680a1be9c214e0ca990dbe01fd25b07 = L.icon({
+                    iconUrl: 'icon.png',
+                    
+                    
+
+                    
+                    
+                    
+
+                    popupAnchor: [9,-19],
+                    });
+                marker_426a44c3f6924c249ee5bed16ea35b1f.setIcon(custom_icon_3680a1be9c214e0ca990dbe01fd25b07);
+            
+    
+            var popup_241f6a6c4a704419a38f1f9a6931d946 = L.popup({maxWidth: '300'});
+
+            
+                var html_3deafcbfdeb34d9cb820b45210b150a0 = $('<div id="html_3deafcbfdeb34d9cb820b45210b150a0" style="width: 100.0%; height: 100.0%;"><a href="http://www.arcanumpubliclibrary.org"target="_blank">Arcanum Public Library</a></div>')[0];
+                popup_241f6a6c4a704419a38f1f9a6931d946.setContent(html_3deafcbfdeb34d9cb820b45210b150a0);
+            
+
+            marker_426a44c3f6924c249ee5bed16ea35b1f.bindPopup(popup_241f6a6c4a704419a38f1f9a6931d946);
+
+            
+        
+    
+
+            var marker_0984f5d398334493b5a6c5f23a61b9ca = L.marker(
+                [39.293711,-83.98861],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_9a208701356e4d65a2714b2f0d02a052);
+            
+    
+
+                var custom_icon_3340a46b07e943e5b383758dd61eafd3 = L.icon({
+                    iconUrl: 'icon.png',
+                    
+                    
+
+                    
+                    
+                    
+
+                    popupAnchor: [9,-19],
+                    });
+                marker_0984f5d398334493b5a6c5f23a61b9ca.setIcon(custom_icon_3340a46b07e943e5b383758dd61eafd3);
+            
+    
+            var popup_7c5aa99b27d641ac9e100dbcdeba30d6 = L.popup({maxWidth: '300'});
+
+            
+                var html_d2f80b98f6594df3b1537aaf0c22ef69 = $('<div id="html_d2f80b98f6594df3b1537aaf0c22ef69" style="width: 100.0%; height: 100.0%;"><a href="http://www.blanchester.lib.oh.us"target="_blank">Blanchester Public Library</a></div>')[0];
+                popup_7c5aa99b27d641ac9e100dbcdeba30d6.setContent(html_d2f80b98f6594df3b1537aaf0c22ef69);
+            
+
+            marker_0984f5d398334493b5a6c5f23a61b9ca.bindPopup(popup_7c5aa99b27d641ac9e100dbcdeba30d6);
+
+            
+        
+    
+
+            var marker_87739a47e0e34033961a751b8d3293fa = L.marker(
+                [40.243213,-82.863014],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_9a208701356e4d65a2714b2f0d02a052);
+            
+    
+
+                var custom_icon_273dafbbab81496fa9ccc4c86c956c7e = L.icon({
+                    iconUrl: 'icon.png',
+                    
+                    
+
+                    
+                    
+                    
+
+                    popupAnchor: [9,-19],
+                    });
+                marker_87739a47e0e34033961a751b8d3293fa.setIcon(custom_icon_273dafbbab81496fa9ccc4c86c956c7e);
+            
+    
+            var popup_a1197f47d1164609b498c3693c6d888e = L.popup({maxWidth: '300'});
+
+            
+                var html_789ef533af04474583ed0553dce6b698 = $('<div id="html_789ef533af04474583ed0553dce6b698" style="width: 100.0%; height: 100.0%;"><a href="http://www.yourcl.org"target="_blank">Sunbury Community Library</a></div>')[0];
+                popup_a1197f47d1164609b498c3693c6d888e.setContent(html_789ef533af04474583ed0553dce6b698);
+            
+
+            marker_87739a47e0e34033961a751b8d3293fa.bindPopup(popup_a1197f47d1164609b498c3693c6d888e);
+
+            
+        
+    
+
+            var marker_f17a0aff72864cb185b578079f486df0 = L.marker(
+                [40.500559,-82.8932],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_9a208701356e4d65a2714b2f0d02a052);
+            
+    
+
+                var custom_icon_92ccb07a858841bdb255ee9bf8b49de9 = L.icon({
+                    iconUrl: 'icon.png',
+                    
+                    
+
+                    
+                    
+                    
+
+                    popupAnchor: [9,-19],
+                    });
+                marker_f17a0aff72864cb185b578079f486df0.setIcon(custom_icon_92ccb07a858841bdb255ee9bf8b49de9);
+            
+    
+            var popup_c17ca9d740624b479e11648d1f5f5b07 = L.popup({maxWidth: '300'});
+
+            
+                var html_74701ecad0e84fac866fc216a15fc9ec = $('<div id="html_74701ecad0e84fac866fc216a15fc9ec" style="width: 100.0%; height: 100.0%;"><a href="http://www.cardingtonlibrary.org"target="_blank">Cardington-Lincoln Public Library</a></div>')[0];
+                popup_c17ca9d740624b479e11648d1f5f5b07.setContent(html_74701ecad0e84fac866fc216a15fc9ec);
+            
+
+            marker_f17a0aff72864cb185b578079f486df0.bindPopup(popup_c17ca9d740624b479e11648d1f5f5b07);
+
+            
+        
+    
+
+            var marker_4ab16e27dd614ebfa35299db6d17ba52 = L.marker(
+                [39.625753,-84.372213],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_9a208701356e4d65a2714b2f0d02a052);
+            
+    
+
+                var custom_icon_fc139fc041e74101860ea40db44905e7 = L.icon({
+                    iconUrl: 'icon.png',
+                    
+                    
+
+                    
+                    
+                    
+
+                    popupAnchor: [9,-19],
+                    });
+                marker_4ab16e27dd614ebfa35299db6d17ba52.setIcon(custom_icon_fc139fc041e74101860ea40db44905e7);
+            
+    
+            var popup_055e78da02d942dbb197b9093491a440 = L.popup({maxWidth: '300'});
+
+            
+                var html_62196779a59b46bcb980eb854483620d = $('<div id="html_62196779a59b46bcb980eb854483620d" style="width: 100.0%; height: 100.0%;"><a href="http://www.germantown.lib.oh.us"target="_blank">Germantown Public Library</a></div>')[0];
+                popup_055e78da02d942dbb197b9093491a440.setContent(html_62196779a59b46bcb980eb854483620d);
+            
+
+            marker_4ab16e27dd614ebfa35299db6d17ba52.bindPopup(popup_055e78da02d942dbb197b9093491a440);
+
+            
+        
+    
+
+            var marker_231a2e44cf334135be9ebdc470d084e8 = L.marker(
+                [40.116859000000005,-84.353124],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_9a208701356e4d65a2714b2f0d02a052);
+            
+    
+
+                var custom_icon_ac894dc7f10a466f9a05a28137b1cd78 = L.icon({
+                    iconUrl: 'icon.png',
+                    
+                    
+
+                    
+                    
+                    
+
+                    popupAnchor: [9,-19],
+                    });
+                marker_231a2e44cf334135be9ebdc470d084e8.setIcon(custom_icon_ac894dc7f10a466f9a05a28137b1cd78);
+            
+    
+            var popup_3350987bea164aad83e42441df35d2fc = L.popup({maxWidth: '300'});
+
+            
+                var html_7bf82c81dd0c47908ce948648d310101 = $('<div id="html_7bf82c81dd0c47908ce948648d310101" style="width: 100.0%; height: 100.0%;"><a href="http://www.jrclarkelibrary.org"target="_blank">J.R. Clarke Public Library</a></div>')[0];
+                popup_3350987bea164aad83e42441df35d2fc.setContent(html_7bf82c81dd0c47908ce948648d310101);
+            
+
+            marker_231a2e44cf334135be9ebdc470d084e8.bindPopup(popup_3350987bea164aad83e42441df35d2fc);
+
+            
+        
+    
+
+            var marker_63650e0868e14493ad1b5916f693ce48 = L.marker(
+                [40.882708,-82.662088],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_9a208701356e4d65a2714b2f0d02a052);
+            
+    
+
+                var custom_icon_f7e7e0082bb846f78de4cf92bd228dd1 = L.icon({
+                    iconUrl: 'icon.png',
+                    
+                    
+
+                    
+                    
+                    
+
+                    popupAnchor: [9,-19],
+                    });
+                marker_63650e0868e14493ad1b5916f693ce48.setIcon(custom_icon_f7e7e0082bb846f78de4cf92bd228dd1);
+            
+    
+            var popup_9b458f5106dd4fec9d9cfbd10f08c59a = L.popup({maxWidth: '300'});
+
+            
+                var html_5cb204b655da42f8b07d7e9a96b5d7ca = $('<div id="html_5cb204b655da42f8b07d7e9a96b5d7ca" style="width: 100.0%; height: 100.0%;"><a href="http://www.shelbymm.lib.oh.us"target="_blank">Marvin Memorial Library</a></div>')[0];
+                popup_9b458f5106dd4fec9d9cfbd10f08c59a.setContent(html_5cb204b655da42f8b07d7e9a96b5d7ca);
+            
+
+            marker_63650e0868e14493ad1b5916f693ce48.bindPopup(popup_9b458f5106dd4fec9d9cfbd10f08c59a);
+
+            
+        
+    
+
+            var marker_beb75db1463a49389d18fb0be42d7bf7 = L.marker(
+                [40.548807000000004,-82.826993],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_9a208701356e4d65a2714b2f0d02a052);
+            
+    
+
+                var custom_icon_77c8fb0849d147beb243ab71cdd1d610 = L.icon({
+                    iconUrl: 'icon.png',
+                    
+                    
+
+                    
+                    
+                    
+
+                    popupAnchor: [9,-19],
+                    });
+                marker_beb75db1463a49389d18fb0be42d7bf7.setIcon(custom_icon_77c8fb0849d147beb243ab71cdd1d610);
+            
+    
+            var popup_d8309286e9884bb2a1dec3ca50e77119 = L.popup({maxWidth: '300'});
+
+            
+                var html_7c06abd8c9d044d6b19a22315c74ff5a = $('<div id="html_7c06abd8c9d044d6b19a22315c74ff5a" style="width: 100.0%; height: 100.0%;"><a href="http://mt-gilead.lib.oh.us"target="_blank">Mount Gilead Public Library</a></div>')[0];
+                popup_d8309286e9884bb2a1dec3ca50e77119.setContent(html_7c06abd8c9d044d6b19a22315c74ff5a);
+            
+
+            marker_beb75db1463a49389d18fb0be42d7bf7.bindPopup(popup_d8309286e9884bb2a1dec3ca50e77119);
+
+            
+        
+    
+
+            var marker_1f68530b32b74935b59603916fbf4f21 = L.marker(
+                [40.480278000000006,-82.68405600000001],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_9a208701356e4d65a2714b2f0d02a052);
+            
+    
+
+                var custom_icon_931e91c330f04939990dd6de6e838506 = L.icon({
+                    iconUrl: 'icon.png',
+                    
+                    
+
+                    
+                    
+                    
+
+                    popupAnchor: [9,-19],
+                    });
+                marker_1f68530b32b74935b59603916fbf4f21.setIcon(custom_icon_931e91c330f04939990dd6de6e838506);
+            
+    
+            var popup_395ecd736c214fcdb69895c61407b967 = L.popup({maxWidth: '300'});
+
+            
+                var html_caa32ecb7839428f84c7ae41791eccce = $('<div id="html_caa32ecb7839428f84c7ae41791eccce" style="width: 100.0%; height: 100.0%;"><a href="http://selover.lib.oh.us"target="_blank">Selover Public Library</a></div>')[0];
+                popup_395ecd736c214fcdb69895c61407b967.setContent(html_caa32ecb7839428f84c7ae41791eccce);
+            
+
+            marker_1f68530b32b74935b59603916fbf4f21.bindPopup(popup_395ecd736c214fcdb69895c61407b967);
+
+            
+        
+    
+
+            var marker_2d00b694775c4ada86b57baf330e72a1 = L.marker(
+                [40.215446,-84.485417],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_9a208701356e4d65a2714b2f0d02a052);
+            
+    
+
+                var custom_icon_4672fc13d40948e89a20a616fb99159d = L.icon({
+                    iconUrl: 'icon.png',
+                    
+                    
+
+                    
+                    
+                    
+
+                    popupAnchor: [9,-19],
+                    });
+                marker_2d00b694775c4ada86b57baf330e72a1.setIcon(custom_icon_4672fc13d40948e89a20a616fb99159d);
+            
+    
+            var popup_a7203665da1040a88261b63d0878bda0 = L.popup({maxWidth: '300'});
+
+            
+                var html_0c06dfbb575644ca9bf2cfb0a46fd471 = $('<div id="html_0c06dfbb575644ca9bf2cfb0a46fd471" style="width: 100.0%; height: 100.0%;"><a href="http://www.worch.lib.oh.us"target="_blank">Worch Memorial Public Library</a></div>')[0];
+                popup_a7203665da1040a88261b63d0878bda0.setContent(html_0c06dfbb575644ca9bf2cfb0a46fd471);
+            
+
+            marker_2d00b694775c4ada86b57baf330e72a1.bindPopup(popup_a7203665da1040a88261b63d0878bda0);
+
+            
+        
+    
+
+            var marker_c59f2907dc7d40288d48e15546a71671 = L.marker(
+                [40.409234000000005,-82.951691],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_9a208701356e4d65a2714b2f0d02a052);
+            
+    
+
+                var custom_icon_8bffbd2acb5740328ffb1d5ad6830006 = L.icon({
+                    iconUrl: 'icon.png',
+                    
+                    
+
+                    
+                    
+                    
+
+                    popupAnchor: [9,-19],
+                    });
+                marker_c59f2907dc7d40288d48e15546a71671.setIcon(custom_icon_8bffbd2acb5740328ffb1d5ad6830006);
+            
+    
+            var popup_b22b3dfe41a34772afa8c27bd46a476f = L.popup({maxWidth: '300'});
+
+            
+                var html_38a7ab2f3ac34eed93c81b815850a978 = $('<div id="html_38a7ab2f3ac34eed93c81b815850a978" style="width: 100.0%; height: 100.0%;"><a href="http://www.wornstafflibrary.com"target="_blank">Wornstaff Memorial Library</a></div>')[0];
+                popup_b22b3dfe41a34772afa8c27bd46a476f.setContent(html_38a7ab2f3ac34eed93c81b815850a978);
+            
+
+            marker_c59f2907dc7d40288d48e15546a71671.bindPopup(popup_b22b3dfe41a34772afa8c27bd46a476f);
+
+            
+        
+</script>
