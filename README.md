@@ -1,6 +1,7 @@
 Exploring the use of [Hugo](https://gohugo.io/) to generate an external web presence for the Consortium of Ohio Libraries
 A modified version of [Hugo Academic](https://github.com/gcushen/hugo-academic) is applied.
 View the files in this repos `/docs` directory at [https://dzoladz.github.io/cool-info/](https://dzoladz.github.io/cool-info/)
+Consortium of Ohio Libraries map is generated using [Folium](https://github.com/python-visualization/folium), a Python library for building [Leaflet.js](http://leafletjs.com/) maps.
 
 A few basic Hugo commands:
 
