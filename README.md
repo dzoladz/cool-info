@@ -1,5 +1,6 @@
 Exploring the use of [Hugo](https://gohugo.io/) to generate an external web presence for the Consortium of Ohio Libraries
 A modified version of [Hugo Academic](https://github.com/gcushen/hugo-academic) is applied.
+View the files in this repos `/docs` directory at [https://dzoladz.github.io/cool-info/](https://dzoladz.github.io/cool-info/)
 
 A few basic Hugo commands:
 
