@@ -1,5 +1,5 @@
-#baseurl = "https://dzoladz.github.io/cool-info/"  # End your URL with a `/` trailing slash. Github Deploy.
-baseurl = "http://info.cool-cat.org/" # End your URL with a `/` trailing slash. Production Deploy.
+baseurl = "https://dzoladz.github.io/cool-info/"  # End your URL with a `/` trailing slash. Github Deploy.
+#baseurl = "http://info.cool-cat.org/" # End your URL with a `/` trailing slash. Production Deploy.
 publishDir = "docs"
 title = "Consortium of Ohio Libraries"
 copyright = "&copy; 2017 Consortium of Ohio Libaries"
