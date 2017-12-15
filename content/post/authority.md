@@ -4,7 +4,7 @@ draft = false
 tags = ["cataloging", "cool-cat"]
 title = "Authority Anyone?"
 math = false
-summary = """COOL has very recently partnered with Backstage Library Works."""
+summary = "COOL has very recently partnered with Backstage Library Works."
 +++
 
 One of the biggest factors in having a successful catalog for your library or consortium is having good records!

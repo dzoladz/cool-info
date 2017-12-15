@@ -4,7 +4,7 @@ draft = false
 tags = ["leadership", "cool-cat"]
 title = "Floating in the Most Peculiar Way"
 math = false
-summary = """A couple months ago, COOL started floating collections between independently governed and funded libraries."""
+summary = "A couple months ago, COOL started floating collections between independently governed and funded libraries."
 +++
 
 A couple months ago, COOL started floating collections between independently governed and funded libraries. The goal is to reduce wait times for patrons at member libraries.
