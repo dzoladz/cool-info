@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technologies on Consortium of Ohio Libraries</title>
-    <link>https://dzoladz.github.io/cool-info/technology/</link>
+    <link>http://info.cool-cat.org/technology/</link>
     <description>Recent content in Technologies on Consortium of Ohio Libraries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Consortium of Ohio Libaries</copyright>
     <lastBuildDate>Thu, 31 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/cool-info/technology/" rel="self" type="application/rss+xml" />
+    <atom:link href="/technology/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Technology</title>
-      <link>https://dzoladz.github.io/cool-info/technology/technology/</link>
+      <link>http://info.cool-cat.org/technology/technology/</link>
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/technology/technology/</guid>
+      <guid>http://info.cool-cat.org/technology/technology/</guid>
       <description>
 
 &lt;p&gt;The Consortium of Ohio Libraries integrates a broad spectrum of open source technology to support day-to-day library operations, while collaborating with a carefully curated set of technology partners to provide a superior quality of service to our growing library community.&lt;br /&gt;
