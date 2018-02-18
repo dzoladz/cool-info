@@ -1,5 +1,5 @@
 +++
-date = "2016-12-13T11:00:00"
+date = "2017-12-13T11:00:00"
 draft = false
 tags = ["leadership"]
 title = "COOL Leadership for 2018"

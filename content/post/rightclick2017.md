@@ -1,5 +1,5 @@
 +++
-date = "2016-11-15T11:00:00"
+date = "2017-11-15T11:00:00"
 draft = false
 tags = ["leadership"]
 title = "RightClick 2017"
