@@ -12,6 +12,7 @@ Two representatives from the Consortium of Ohio Libraries, Joe Knueven, Director
 Here are the summaries for each presentation. We'll see you there!
 
 **Beam me up, Scotty: Migrating into an Evergreen Consortium**
+[Presentation](https://github.com/dzoladz/rightclick2017)
 
 > Have you considered migrating to an open source ILS, but are unsure of the process? Migrating to a new ILS is a considerable undertaking, but the first step is to know what’s involved. Gain a better understanding of the framework for ILS migration including key considerations related to Evergreen. You will leave this session equipped with the information you need to continue exploring open source ILS migrations independently.
 
