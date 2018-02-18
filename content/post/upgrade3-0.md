@@ -1,6 +1,6 @@
 +++
 date = "2018-01-10T11:00:00"
-draft = true
+draft = false
 tags = ["cool-cat"]
 title = "Upgrade to Release 3.0"
 math = false
