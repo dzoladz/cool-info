@@ -2,335 +2,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cool Cat on Consortium of Ohio Libraries</title>
-    <link>http://info.cool-cat.org/tags/cool-cat/</link>
+    <link>https://dzoladz.github.io/cool-info/tags/cool-cat/</link>
     <description>Recent content in Cool Cat on Consortium of Ohio Libraries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Consortium of Ohio Libaries</copyright>
     <lastBuildDate>Wed, 10 Jan 2018 11:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/cool-cat/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://dzoladz.github.io/cool-info/tags/cool-cat/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Upgrade to Release 3.0</title>
-      <link>http://info.cool-cat.org/post/upgrade3-0/</link>
+      <link>https://dzoladz.github.io/cool-info/post/upgrade3-0/</link>
       <pubDate>Wed, 10 Jan 2018 11:00:00 +0000</pubDate>
       
-      <guid>http://info.cool-cat.org/post/upgrade3-0/</guid>
-      <description>&lt;p&gt;On January 10, COOL became the first consortium on the Sequoia platform to upgrade to the 3.0 release of Evergreen. New features include the ability to batch edit patron records and the ability to send text message notifications to patrons 3 days prior to the due date of any circulting material. Release 3.0 initiates the transition from the XUL staff client to a web-based staff client for all Evergreen modules, including serials and acquisitions. Library staff will no longer need to download separate software to interact with Evergreen.&lt;/p&gt;
-
-&lt;p&gt;The Consortium of Ohio Libraries contributed funding for the development of the web-based staff client, along with the following organizations:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bibliomation&lt;/li&gt;
-&lt;li&gt;British Columbia Libraries Cooperative&lt;/li&gt;
-&lt;li&gt;C/W MARS&lt;/li&gt;
-&lt;li&gt;Georgia Public Library Service&lt;/li&gt;
-&lt;li&gt;Grand Rapids Public Library&lt;/li&gt;
-&lt;li&gt;The Howe Library&lt;/li&gt;
-&lt;li&gt;Kenton County Public Library&lt;/li&gt;
-&lt;li&gt;King County Library System&lt;/li&gt;
-&lt;li&gt;MassLNC&lt;/li&gt;
-&lt;li&gt;NC Cardinal&lt;/li&gt;
-&lt;li&gt;Pennsylvania Integrated Library System&lt;/li&gt;
-&lt;li&gt;Pioneer Library System&lt;/li&gt;
-&lt;li&gt;SC LENDS&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://dzoladz.github.io/cool-info/post/upgrade3-0/</guid>
+      <description>On January 10, COOL became the first consortium on the Sequoia platform to upgrade to the 3.0 release of Evergreen. New features include the ability to batch edit patron records and the ability to send text message notifications to patrons 3 days prior to the due date of any circulting material. Release 3.0 initiates the transition from the XUL staff client to a web-based staff client for all Evergreen modules, including serials and acquisitions.</description>
     </item>
     
     <item>
       <title>Floating in the Most Peculiar Way</title>
-      <link>http://info.cool-cat.org/post/floating/</link>
+      <link>https://dzoladz.github.io/cool-info/post/floating/</link>
       <pubDate>Fri, 15 Apr 2016 11:00:00 +0000</pubDate>
       
-      <guid>http://info.cool-cat.org/post/floating/</guid>
-      <description>&lt;p&gt;A couple months ago, COOL started floating collections between independently governed and funded libraries. The goal is to reduce wait times for patrons at member libraries.&lt;/p&gt;
-
-&lt;p&gt;Here’s how it works:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;COOL libraries purchase multiple copies of items with high hold/copy ratios.&lt;/li&gt;
-&lt;li&gt;Items are processed without any local branding.&lt;/li&gt;
-&lt;li&gt;Items circulate throughout the consortium, without any geographic restrictions, on a “first in, first out” basis.&lt;/li&gt;
-&lt;li&gt;Once hold lists are fulfilled, the item resides where it was last returned and remains there until a hold from another library is generated.&lt;/li&gt;
-&lt;li&gt;Looking at circulation numbers, it appears it is working as intended. Items with more than five holds per copy have reduced 12% since the project started. We only expect it to continue to improve as time goes on.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Joe Knueven, director of Germantown Public Library and Chauncey Montgomery, director of Community Library (Sunbury) will be doing a in-depth presentation of the project at the 2016 EIC conference in Raleigh, NC.&lt;/p&gt;
-</description>
+      <guid>https://dzoladz.github.io/cool-info/post/floating/</guid>
+      <description>A couple months ago, COOL started floating collections between independently governed and funded libraries. The goal is to reduce wait times for patrons at member libraries.
+Here’s how it works:
+ COOL libraries purchase multiple copies of items with high hold/copy ratios. Items are processed without any local branding. Items circulate throughout the consortium, without any geographic restrictions, on a “first in, first out” basis. Once hold lists are fulfilled, the item resides where it was last returned and remains there until a hold from another library is generated.</description>
     </item>
     
     <item>
       <title>Authority Anyone?</title>
-      <link>http://info.cool-cat.org/post/authority/</link>
+      <link>https://dzoladz.github.io/cool-info/post/authority/</link>
       <pubDate>Mon, 20 Jul 2015 13:33:00 +0000</pubDate>
       
-      <guid>http://info.cool-cat.org/post/authority/</guid>
-      <description>&lt;p&gt;One of the biggest factors in having a successful catalog for your library or consortium is having good records!&lt;/p&gt;
-
-&lt;p&gt;With this in mind, COOL has very recently partnered with Backstage Library Works (BSLW) and has instituted ongoing authority control for the catalog/database.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://info.cool-cat.org/img/auth_control.png&#34; alt=&#34;image of a record&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ongoing, we will be loading both updated bibliographic records as well as authority records in an ongoing quarterly process.  At the same time, we’re instituting manual authority control procedures for locally created and eBook records.&lt;/p&gt;
-
-&lt;p&gt;While it’s certainly never easy, the end result will be a better catalog for both our patrons and staff!  If you have any questions for your library, drop us a line–we’ll be glad to help!&lt;/p&gt;
-</description>
+      <guid>https://dzoladz.github.io/cool-info/post/authority/</guid>
+      <description>One of the biggest factors in having a successful catalog for your library or consortium is having good records!
+With this in mind, COOL has very recently partnered with Backstage Library Works (BSLW) and has instituted ongoing authority control for the catalog/database.
+Ongoing, we will be loading both updated bibliographic records as well as authority records in an ongoing quarterly process. At the same time, we’re instituting manual authority control procedures for locally created and eBook records.</description>
     </item>
     
     <item>
       <title>Move to Sequoia</title>
-      <link>http://info.cool-cat.org/post/sequoia/</link>
+      <link>https://dzoladz.github.io/cool-info/post/sequoia/</link>
       <pubDate>Thu, 15 Jan 2015 11:00:00 +0000</pubDate>
       
-      <guid>http://info.cool-cat.org/post/sequoia/</guid>
-      <description>&lt;p&gt;On January 13, COOL moved to Sequoia. For more information, visit: &lt;a href=&#34;http://esilibrary.com/what-we-do/sequoia&#34;&gt;http://esilibrary.com/what-we-do/sequoia&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://dzoladz.github.io/cool-info/post/sequoia/</guid>
+      <description>On January 13, COOL moved to Sequoia. For more information, visit: http://esilibrary.com/what-we-do/sequoia</description>
     </item>
     
     <item>
       <title>Upgrade to 2.7</title>
-      <link>http://info.cool-cat.org/post/upgrade2-7/</link>
+      <link>https://dzoladz.github.io/cool-info/post/upgrade2-7/</link>
       <pubDate>Thu, 20 Nov 2014 11:00:00 +0000</pubDate>
       
-      <guid>http://info.cool-cat.org/post/upgrade2-7/</guid>
-      <description>&lt;p&gt;COOL will be upgrading to Evergreen 2.7 this December. The 2.7 version includes a Web-based staff interface that allows staff to turn any device with Internet access and a Web browser into a staff client. We will be able to perform circulation almost anywhere we need to with little effort.&lt;/p&gt;
-</description>
+      <guid>https://dzoladz.github.io/cool-info/post/upgrade2-7/</guid>
+      <description>COOL will be upgrading to Evergreen 2.7 this December. The 2.7 version includes a Web-based staff interface that allows staff to turn any device with Internet access and a Web browser into a staff client. We will be able to perform circulation almost anywhere we need to with little effort.</description>
     </item>
     
     <item>
       <title>Living in Ohio</title>
-      <link>http://info.cool-cat.org/post/ohio/</link>
+      <link>https://dzoladz.github.io/cool-info/post/ohio/</link>
       <pubDate>Fri, 09 May 2014 11:00:00 +0000</pubDate>
       
-      <guid>http://info.cool-cat.org/post/ohio/</guid>
-      <description>&lt;p&gt;What makes Ohio such a great state to live in?&lt;/p&gt;
-
-&lt;p&gt;Check out number eight:
-&lt;a href=&#34;http://www.movoto.com/oh/only-people-from-ohio-understand/&#34;&gt;http://www.movoto.com/oh/only-people-from-ohio-understand/&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>https://dzoladz.github.io/cool-info/post/ohio/</guid>
+      <description>What makes Ohio such a great state to live in?
+Check out number eight: http://www.movoto.com/oh/only-people-from-ohio-understand/</description>
     </item>
     
     <item>
       <title>User Survey Results</title>
-      <link>http://info.cool-cat.org/post/survey/</link>
+      <link>https://dzoladz.github.io/cool-info/post/survey/</link>
       <pubDate>Thu, 13 Dec 2012 13:33:00 +0000</pubDate>
       
-      <guid>http://info.cool-cat.org/post/survey/</guid>
-      <description>&lt;p&gt;A user survey was completed before and after migration to assess how user-friendly Evergreen is compared to previous systems. Participants were asked to rate how easy it was to complete basic tasks in the catalog. Responses ranged on a scale from “very easy” to “very difficult” Following is a list of tasks with the percentage of respondents that answered “very easy” and “easy”.&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Task&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Legacy System&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Evergreen&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Find a specific title.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;80%&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;95%&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Find titles based on a subject search.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;65%&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;78%&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Limit searches to a specific collection.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;41%&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;56%&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Understand the search results.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;76%&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;77%&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Place an item on hold.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;88%&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;91%&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Add items to a list or bookbag.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;38%&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;79%&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Access account information.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;73%&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;92%&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Renew items.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;90%&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;87%&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Request an item from another library.&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;50%&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;91%&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;In all categories, with the exception of renewing items, ease-of-use increased in Evergreen. It is also worth noting that the survey was completed just a month after migration, so this represents going from systems that had been in place for years to a new system.&lt;/p&gt;
-
-&lt;p&gt;It is also worth noting that the survey was completed when we were still on Evergreen 2.1. We are now running Evergreen 2.3, which has a much more intuitive OPAC.&lt;/p&gt;
-</description>
+      <guid>https://dzoladz.github.io/cool-info/post/survey/</guid>
+      <description>A user survey was completed before and after migration to assess how user-friendly Evergreen is compared to previous systems. Participants were asked to rate how easy it was to complete basic tasks in the catalog. Responses ranged on a scale from “very easy” to “very difficult” Following is a list of tasks with the percentage of respondents that answered “very easy” and “easy”.
+   Task Legacy System Evergreen     Find a specific title.</description>
     </item>
     
     <item>
       <title>COOL-CAT to Upgrade</title>
-      <link>http://info.cool-cat.org/post/upgrade2-3/</link>
+      <link>https://dzoladz.github.io/cool-info/post/upgrade2-3/</link>
       <pubDate>Tue, 30 Oct 2012 13:33:00 +0000</pubDate>
       
-      <guid>http://info.cool-cat.org/post/upgrade2-3/</guid>
-      <description>&lt;p&gt;On November 18, COOL-CAT will be upgraded to Evergreen 2.3. The upgrade includes a major overhaul of the public catalog. New features will include a simpler interface, auto-complete, and loan history, among others. The new catalog is also much lighter than the traditional OPAC, so it should be faster. The staff client also has some new features. For more information, go to &lt;a href=&#34;http://evergreen-ils.org/blog/?p=818&#34;&gt;http://evergreen-ils.org/blog/?p=818&lt;/a&gt;. We are all looking forward to the upgrade.&lt;/p&gt;
-</description>
+      <guid>https://dzoladz.github.io/cool-info/post/upgrade2-3/</guid>
+      <description>On November 18, COOL-CAT will be upgraded to Evergreen 2.3. The upgrade includes a major overhaul of the public catalog. New features will include a simpler interface, auto-complete, and loan history, among others. The new catalog is also much lighter than the traditional OPAC, so it should be faster. The staff client also has some new features. For more information, go to http://evergreen-ils.org/blog/?p=818. We are all looking forward to the upgrade.</description>
     </item>
     
     <item>
       <title>Results of Migration to Evergreen: Crash &amp; Burn?</title>
-      <link>http://info.cool-cat.org/post/migration/</link>
+      <link>https://dzoladz.github.io/cool-info/post/migration/</link>
       <pubDate>Wed, 11 Apr 2012 13:32:00 +0000</pubDate>
       
-      <guid>http://info.cool-cat.org/post/migration/</guid>
-      <description>
-
-&lt;h3 id=&#34;migration-went-briefly-like-this&#34;&gt;Migration went briefly like this:&lt;/h3&gt;
-
-&lt;p&gt;First: COOL consortium was formed with Principles of Cooperation, etc.
-A worthy item of note: you pretty much keep your own song sheet.
-Do, or don’t, charge for overdue books, have a special fine structure, etc. ? Your call.&lt;/p&gt;
-
-&lt;h3 id=&#34;next-pre-work-before-the-migration&#34;&gt;Next: Pre-work before the migration.&lt;/h3&gt;
-
-&lt;p&gt;4 &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt; days (last week of January) introductory training at OhioNET, for various staff on certain days.
-Consortium and migration meetings and conference calls.
-Data cleanup and addition collection weeding.
-Test data extracts &amp;amp; analyzing. Data map assignments. Lending, fee, etc. policies.
-Etc.&lt;/p&gt;
-
-&lt;p&gt;The technical work (my area) inside the library was a piece of cake.
-Opened a port for a certain IP access through the firewall, to our server.
-Verified Remote Desktop was enabled on the server.
-Installed the Evergreen client on 15 workstations at about 3-5 minutes each.&lt;/p&gt;
-
-&lt;h3 id=&#34;finally-actual-migration-and-switch-to-evergreen&#34;&gt;Finally: Actual migration and switch to Evergreen.&lt;/h3&gt;
-
-&lt;p&gt;Monday, Tuesday, &amp;amp; Wednesday (March 12, 13, &amp;amp; 14)&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Used Evergreen Offline Mode for checkout only.&lt;/li&gt;
-&lt;li&gt;Returned items went on carts, shelves, etc.&lt;/li&gt;
-&lt;li&gt;Patron and item data migrated to Evergreen&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thursday March 18&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Library closed to the public&lt;/li&gt;
-&lt;li&gt;Chauncey Montgomery (Director) gave training presentation with hands-on.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Friday March 16&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Library closed to the public&lt;/li&gt;
-&lt;li&gt;More hands-on in the morning&lt;/li&gt;
-&lt;li&gt;Afternoon the staff checked in accumulated items with Evergreen.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Saturday March 17&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Library closed to the public&lt;/li&gt;
-&lt;li&gt;Everyone (except maybe Chauncey and Joni) took the day off.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Sunday March 18&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Always closed on Sunday&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Monday March 19&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Open for business just like normal but running Evergreen.&lt;/li&gt;
-&lt;li&gt;A few glitches but nobody quit and patrons were satisfied.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;During this week OhioNet and Equinox fine-tuned the migration.&lt;/p&gt;
-
-&lt;p&gt;There have been relatively minor (no show stopper) issues to address. I’d elaborate but have no clue, as not my area of expertise.&lt;/p&gt;
-
-&lt;h3 id=&#34;why-d-we-do-it&#34;&gt;Why’d we do it?&lt;/h3&gt;
-
-&lt;p&gt;Years and years ago we heard about Koha, so visited Nelsonville Library and did a cold call on Joshua Ferraro at LibLime.
-Also a visit to Stow-Munroe Falls Public Library.
-Koha seemed very good, but we decided Liblime was too much money for us.&lt;/p&gt;
-
-&lt;p&gt;After Jo Budler held State Library meetings on Evergreen, we started following it’s development.
-Eric Maynard’s Functional Comparison to Horizon was very thorough and helpful.
-Evergreen features, phenomenal growth and the backing of major library systems really sold us.&lt;/p&gt;
-
-&lt;p&gt;I personally envisioned a state data center running Evergreen.
-No longer would every library need a new server, s/w upgrades, backup solution, etc. every 3 to 5 years.
-Duplicate ILS vendor support, upgrade and h/w cost would be reduced.
-Libraries could share these reduced costs saving money.
-So those bushel baskets of $$$ libraries yearly send out of state (to ILS vendors) remain in Ohio
-(All this would look good to the state legislature at budget time)&lt;/p&gt;
-
-&lt;p&gt;(But best was, offsite program and data storage. No more circ backup worries ! Yesss!)&lt;/p&gt;
-
-&lt;h3 id=&#34;some-benefit-to-community-library-and-patrons&#34;&gt;Some benefit to Community Library and Patrons&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;A feature rich ILS, library driven and continually improving.&lt;/li&gt;
-&lt;li&gt;Seamless consortium resource sharing.&lt;/li&gt;
-&lt;li&gt;Offsite servers and internet professionally managed.&lt;/li&gt;
-&lt;li&gt;Reduced long term cost providing more money for acquisitions.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;thank-you-s-to-the-groups-making-migration-possible&#34;&gt;Thank you’s to the groups making migration possible&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;OhioNet for vision. overall guidance and support, excellent project supervision, Tier I support, etc.&lt;/li&gt;
-&lt;li&gt;State Library of Ohio LSTA grant award to the COOL Consortium.&lt;/li&gt;
-&lt;li&gt;COOL Consortium libraries for their vision.&lt;/li&gt;
-&lt;li&gt;Equinox for migration support.&lt;/li&gt;
-&lt;li&gt;Library staff for adoption to change and overall support.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;BTW Most, if not everything, is my thoughts and opinions. And, your mileage may vary.&lt;/p&gt;
-
-&lt;p&gt;-Bob Neeper&lt;/p&gt;
-</description>
+      <guid>https://dzoladz.github.io/cool-info/post/migration/</guid>
+      <description>Migration went briefly like this: First: COOL consortium was formed with Principles of Cooperation, etc. A worthy item of note: you pretty much keep your own song sheet. Do, or don’t, charge for overdue books, have a special fine structure, etc. ? Your call.
+Next: Pre-work before the migration. 4 1&amp;frasl;2 days (last week of January) introductory training at OhioNET, for various staff on certain days. Consortium and migration meetings and conference calls.</description>
     </item>
     
     <item>
       <title>LSTA Funds COOL</title>
-      <link>http://info.cool-cat.org/post/lsta/</link>
+      <link>https://dzoladz.github.io/cool-info/post/lsta/</link>
       <pubDate>Wed, 25 Jan 2012 13:33:00 +0000</pubDate>
       
-      <guid>http://info.cool-cat.org/post/lsta/</guid>
-      <description>&lt;p&gt;A group of libraries was recently awarded a $108,092 Library Service Technology Act grant by the State Library of Ohio to fund the initial formation of Ohio’s first Evergreen consortium. Consisting of eight libraries, the Consortium of Ohio Libraries (COOL) has partnered with OHIONET in Columbus, Ohio, to oversee migration and support.&lt;/p&gt;
-
-&lt;p&gt;Funds awarded will assist four libraries with the initial installation, configuration, and migration to the open source ILS, Evergreen. The first library is scheduled to go live in mid-March. Four additional libraries are scheduled to be added by the end of 2013.&lt;/p&gt;
-</description>
+      <guid>https://dzoladz.github.io/cool-info/post/lsta/</guid>
+      <description>A group of libraries was recently awarded a $108,092 Library Service Technology Act grant by the State Library of Ohio to fund the initial formation of Ohio’s first Evergreen consortium. Consisting of eight libraries, the Consortium of Ohio Libraries (COOL) has partnered with OHIONET in Columbus, Ohio, to oversee migration and support.
+Funds awarded will assist four libraries with the initial installation, configuration, and migration to the open source ILS, Evergreen.</description>
     </item>
     
   </channel>
