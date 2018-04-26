@@ -2,7 +2,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 
-date = "2013-06-08T14:04:00"
+date = "2018-04-26T14:04:00"
 draft = false
 
 title = "Bylaws"
@@ -21,22 +21,21 @@ layout = "policy"
 1. Members. There shall be one class of membership in COOL. Membership is held by the participating library. Each member library is a voting member with one vote on the Executive Board.
 2. Qualifications. Membership shall be limited to any tax-payer funded library in Ohio that provides library services and offers a collection for loan beyond its district of service according to the policies and procedures established by COOL.
 3. Application for Membership. Prospective members may apply to join COOL by submitting a completed COOL Membership Agreement form to the Chair of the Executive Board. The Executive Board shall vote on all prospective membership applications
-4. Term. Membership shall be on a calendar year (January 1 – December 31), effective upon receipt of a signed COOL Membership Agreement. Membership is automatically renewed on an annual basis unless notification of termination is given as described in item E, “Termination”, below.
+4. Term. Membership shall be on a calendar year (January 1 – December 31), effective upon receipt of a signed COOL Membership Agreement. Membership is automatically renewed on an annual basis unless notification of termination is given as described in item 5, “Termination”, below.
 5. Termination. Any member library can terminate membership in COOL by providing written notice to the Chair of the Executive Board as stated in the COOL Membership Agreement. Notice to terminate membership must be received 12 months before termination. The Executive Board may, by two-thirds (2/3) majority of all Executive Board representatives, terminate a membership whenever in its judgment the best interests of COOL would be served.
 6. Database. A member library entity leaving COOL or being terminated has the right to receive at cost with in six months a complete copy of its database with attached bibliographic records and patron records extracted from the COOL database in a format meeting the library’s needs.
 7. Working Groups. All member libraries will make available personnel to serve on any working group the Executive Board deems necessary to support COOL. Libraries that cannot assign a member to every working group agree to abide by the policies developed by the working groups and approved by the Executive Board.
 
 ## EXECUTIVE BOARD
-1. Number and Term. During the COOL initial pilot, all participating libraries will have a seat on the Executive Board filled by the director or a designee. Once membership in COOL reaches 20 members, the Executive Board will re-exam the structure of COOL governance with an eye toward making it a representative council with members appointed for two-year terms.
-2. Officers. The Executive Board shall elect the following officers: Chair, Vice-chair, Secretary, and Treasurer.
+1. Number and Term. All participating libraries will have a seat on the Executive Board filled by the director or a designee. Once membership in COOL reaches 20 members, the Executive Board will re-examine the structure of COOL governance with an eye toward making it a representative council with members appointed for two-year terms.
+2. Officers. The Executive Board shall elect the following officers: Chair, Vice-chair, and Secretary.
 3. Officers' Duties. The Chair, Vice-chair, and Secretary will perform the following duties and may perform other duties as assigned by the Executive Board:
 	
 	1. Chair
 	  1. Preside over all COOL Executive Board meetings
-      2. Approve and distribute minutes of board meetings within the two weeks following each meeting.
-      3. Serve as public spokesperson for COOL.
-      4. With the COOL Secretary, prepare and distribute an agenda three business days prior to each regular meeting.
-      5. Represent COOL in consortium contracts executed and administered by OHIONET.
+      2. Serve as public spokesperson for COOL.
+      3. Prepare and distribute an agenda at least three business days prior to each regular Executive Board meeting.
+      4. Represent COOL in consortium contracts executed and administered by OHIONET.
 	2. Vice-chair
 	  1. Assume the authority and responsibilities of Chair in the Chair's absence or unavailability.
       2. Become Chair the following term.
@@ -46,9 +45,7 @@ layout = "policy"
 	  2. Provide continuity and historical perspective to consortial leadership.
 	4. Secretary
 	  1. Maintain the minutes of the Executive Board.
-      2. With the COOL Chair, prepares and distributes an agenda three (3) business days prior to each regular meeting.
-	5. Treasurer
-	  1. Monitor and report on COOL accounts.  
+      2. Distributes minutes of the Executive Board meetings within two weeks following each meeting.    
 	    
 4. Officers' Election and Term. The Executive Board Officers shall be elected by a majority vote of the Executive Board. The term of office shall be two years, to commence on January 1 with the exception of the first year. An announcement of the newly elected officers will be sent to the membership promptly following the election. Officers may serve consecutive terms with a two-thirds (2/3) majority vote of the member libraries, hereafter known as the “membership”.
 5. Vacancies. A vacancy in the office of the Chair shall be filled by the Vice-chair who will serve until the end of the normal term of the vacated office. A vacancy in other offices will be filled by appointment by the Executive Board.

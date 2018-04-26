@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cool Cat on Consortium of Ohio Libraries</title>
-    <link>https://dzoladz.github.io/cool-info/tags/cool-cat/</link>
+    <link>http://info.cool-cat.org/tags/cool-cat/</link>
     <description>Recent content in Cool Cat on Consortium of Ohio Libraries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Consortium of Ohio Libaries</copyright>
     <lastBuildDate>Wed, 10 Jan 2018 11:00:00 +0000</lastBuildDate>
-    <atom:link href="/cool-info/tags/cool-cat/" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/cool-cat/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Upgrade to Release 3.0</title>
-      <link>https://dzoladz.github.io/cool-info/post/upgrade3-0/</link>
+      <link>http://info.cool-cat.org/post/upgrade3-0/</link>
       <pubDate>Wed, 10 Jan 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/upgrade3-0/</guid>
+      <guid>http://info.cool-cat.org/post/upgrade3-0/</guid>
       <description>&lt;p&gt;On January 10, COOL became the first consortium on the Sequoia platform to upgrade to the 3.0 release of Evergreen. New features include the ability to batch edit patron records and the ability to send text message notifications to patrons 3 days prior to the due date of any circulting material. Release 3.0 initiates the transition from the XUL staff client to a web-based staff client for all Evergreen modules, including serials and acquisitions. Library staff will no longer need to download separate software to interact with Evergreen.&lt;/p&gt;
 
 &lt;p&gt;The Consortium of Ohio Libraries contributed funding for the development of the web-based staff client, along with the following organizations:&lt;/p&gt;
@@ -40,10 +40,10 @@
     
     <item>
       <title>Floating in the Most Peculiar Way</title>
-      <link>https://dzoladz.github.io/cool-info/post/floating/</link>
+      <link>http://info.cool-cat.org/post/floating/</link>
       <pubDate>Fri, 15 Apr 2016 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/floating/</guid>
+      <guid>http://info.cool-cat.org/post/floating/</guid>
       <description>&lt;p&gt;A couple months ago, COOL started floating collections between independently governed and funded libraries. The goal is to reduce wait times for patrons at member libraries.&lt;/p&gt;
 
 &lt;p&gt;Here’s how it works:&lt;/p&gt;
@@ -62,15 +62,15 @@
     
     <item>
       <title>Authority Anyone?</title>
-      <link>https://dzoladz.github.io/cool-info/post/authority/</link>
+      <link>http://info.cool-cat.org/post/authority/</link>
       <pubDate>Mon, 20 Jul 2015 13:33:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/authority/</guid>
+      <guid>http://info.cool-cat.org/post/authority/</guid>
       <description>&lt;p&gt;One of the biggest factors in having a successful catalog for your library or consortium is having good records!&lt;/p&gt;
 
 &lt;p&gt;With this in mind, COOL has very recently partnered with Backstage Library Works (BSLW) and has instituted ongoing authority control for the catalog/database.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://dzoladz.github.io/cool-info/img/auth_control.png&#34; alt=&#34;image of a record&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://info.cool-cat.org/img/auth_control.png&#34; alt=&#34;image of a record&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ongoing, we will be loading both updated bibliographic records as well as authority records in an ongoing quarterly process.  At the same time, we’re instituting manual authority control procedures for locally created and eBook records.&lt;/p&gt;
 
@@ -80,30 +80,30 @@
     
     <item>
       <title>Move to Sequoia</title>
-      <link>https://dzoladz.github.io/cool-info/post/sequoia/</link>
+      <link>http://info.cool-cat.org/post/sequoia/</link>
       <pubDate>Thu, 15 Jan 2015 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/sequoia/</guid>
+      <guid>http://info.cool-cat.org/post/sequoia/</guid>
       <description>&lt;p&gt;On January 13, COOL moved to Sequoia. For more information, visit: &lt;a href=&#34;http://esilibrary.com/what-we-do/sequoia&#34;&gt;http://esilibrary.com/what-we-do/sequoia&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Upgrade to 2.7</title>
-      <link>https://dzoladz.github.io/cool-info/post/upgrade2-7/</link>
+      <link>http://info.cool-cat.org/post/upgrade2-7/</link>
       <pubDate>Thu, 20 Nov 2014 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/upgrade2-7/</guid>
+      <guid>http://info.cool-cat.org/post/upgrade2-7/</guid>
       <description>&lt;p&gt;COOL will be upgrading to Evergreen 2.7 this December. The 2.7 version includes a Web-based staff interface that allows staff to turn any device with Internet access and a Web browser into a staff client. We will be able to perform circulation almost anywhere we need to with little effort.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Living in Ohio</title>
-      <link>https://dzoladz.github.io/cool-info/post/ohio/</link>
+      <link>http://info.cool-cat.org/post/ohio/</link>
       <pubDate>Fri, 09 May 2014 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/ohio/</guid>
+      <guid>http://info.cool-cat.org/post/ohio/</guid>
       <description>&lt;p&gt;What makes Ohio such a great state to live in?&lt;/p&gt;
 
 &lt;p&gt;Check out number eight:
@@ -113,10 +113,10 @@
     
     <item>
       <title>User Survey Results</title>
-      <link>https://dzoladz.github.io/cool-info/post/survey/</link>
+      <link>http://info.cool-cat.org/post/survey/</link>
       <pubDate>Thu, 13 Dec 2012 13:33:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/survey/</guid>
+      <guid>http://info.cool-cat.org/post/survey/</guid>
       <description>&lt;p&gt;A user survey was completed before and after migration to assess how user-friendly Evergreen is compared to previous systems. Participants were asked to rate how easy it was to complete basic tasks in the catalog. Responses ranged on a scale from “very easy” to “very difficult” Following is a list of tasks with the percentage of respondents that answered “very easy” and “easy”.&lt;/p&gt;
 
 &lt;table&gt;
@@ -193,20 +193,20 @@
     
     <item>
       <title>COOL-CAT to Upgrade</title>
-      <link>https://dzoladz.github.io/cool-info/post/upgrade2-3/</link>
+      <link>http://info.cool-cat.org/post/upgrade2-3/</link>
       <pubDate>Tue, 30 Oct 2012 13:33:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/upgrade2-3/</guid>
+      <guid>http://info.cool-cat.org/post/upgrade2-3/</guid>
       <description>&lt;p&gt;On November 18, COOL-CAT will be upgraded to Evergreen 2.3. The upgrade includes a major overhaul of the public catalog. New features will include a simpler interface, auto-complete, and loan history, among others. The new catalog is also much lighter than the traditional OPAC, so it should be faster. The staff client also has some new features. For more information, go to &lt;a href=&#34;http://evergreen-ils.org/blog/?p=818&#34;&gt;http://evergreen-ils.org/blog/?p=818&lt;/a&gt;. We are all looking forward to the upgrade.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Results of Migration to Evergreen: Crash &amp; Burn?</title>
-      <link>https://dzoladz.github.io/cool-info/post/migration/</link>
+      <link>http://info.cool-cat.org/post/migration/</link>
       <pubDate>Wed, 11 Apr 2012 13:32:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/migration/</guid>
+      <guid>http://info.cool-cat.org/post/migration/</guid>
       <description>
 
 &lt;h3 id=&#34;migration-went-briefly-like-this&#34;&gt;Migration went briefly like this:&lt;/h3&gt;
@@ -323,10 +323,10 @@ So those bushel baskets of $$$ libraries yearly send out of state (to ILS vendor
     
     <item>
       <title>LSTA Funds COOL</title>
-      <link>https://dzoladz.github.io/cool-info/post/lsta/</link>
+      <link>http://info.cool-cat.org/post/lsta/</link>
       <pubDate>Wed, 25 Jan 2012 13:33:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/lsta/</guid>
+      <guid>http://info.cool-cat.org/post/lsta/</guid>
       <description>&lt;p&gt;A group of libraries was recently awarded a $108,092 Library Service Technology Act grant by the State Library of Ohio to fund the initial formation of Ohio’s first Evergreen consortium. Consisting of eight libraries, the Consortium of Ohio Libraries (COOL) has partnered with OHIONET in Columbus, Ohio, to oversee migration and support.&lt;/p&gt;
 
 &lt;p&gt;Funds awarded will assist four libraries with the initial installation, configuration, and migration to the open source ILS, Evergreen. The first library is scheduled to go live in mid-March. Four additional libraries are scheduled to be added by the end of 2013.&lt;/p&gt;
