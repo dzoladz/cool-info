@@ -17,6 +17,7 @@ weight = 60
 - [Blanchester Public Library](http://blanchester.lib.oh.us/)
 - [Cardington-Lincoln Public Library](http://www.cardingtonlibrary.org/)
 - [Community Library](http://yourcl.org/)
+- [Galion Public Library](http://www.galionlibrary.org/)
 - [Germantown Public Library](http://www.germantown.lib.oh.us/)
 - [J.R. Clarke Public Library](http://www.jrclarkelibrary.org/)
 - [Marvin Memorial Public Library](http://www.shelbymm.lib.oh.us/)
