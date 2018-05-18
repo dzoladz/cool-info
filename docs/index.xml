@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Consortium of Ohio Libraries on Consortium of Ohio Libraries</title>
-    <link>https://dzoladz.github.io/cool-info/</link>
+    <link>http://info.cool-cat.org/</link>
     <description>Recent content in Consortium of Ohio Libraries on Consortium of Ohio Libraries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Consortium of Ohio Libaries</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/cool-info/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bylaws</title>
-      <link>https://dzoladz.github.io/cool-info/policy/bylaws/</link>
+      <link>http://info.cool-cat.org/policy/bylaws/</link>
       <pubDate>Thu, 26 Apr 2018 14:04:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/policy/bylaws/</guid>
+      <guid>http://info.cool-cat.org/policy/bylaws/</guid>
       <description>
 
 &lt;h2 id=&#34;name-and-mission&#34;&gt;NAME AND MISSION&lt;/h2&gt;
@@ -145,10 +145,10 @@
     
     <item>
       <title>Upgrade to Release 3.0</title>
-      <link>https://dzoladz.github.io/cool-info/post/upgrade3-0/</link>
+      <link>http://info.cool-cat.org/post/upgrade3-0/</link>
       <pubDate>Wed, 10 Jan 2018 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/upgrade3-0/</guid>
+      <guid>http://info.cool-cat.org/post/upgrade3-0/</guid>
       <description>&lt;p&gt;On January 10, COOL became the first consortium on the Sequoia platform to upgrade to the 3.0 release of Evergreen. New features include the ability to batch edit patron records and the ability to send text message notifications to patrons 3 days prior to the due date of any circulting material. Release 3.0 initiates the transition from the XUL staff client to a web-based staff client for all Evergreen modules, including serials and acquisitions. Library staff will no longer need to download separate software to interact with Evergreen.&lt;/p&gt;
 
 &lt;p&gt;The Consortium of Ohio Libraries contributed funding for the development of the web-based staff client, along with the following organizations:&lt;/p&gt;
@@ -173,10 +173,10 @@
     
     <item>
       <title>COOL Leadership for 2018</title>
-      <link>https://dzoladz.github.io/cool-info/post/elections2017/</link>
+      <link>http://info.cool-cat.org/post/elections2017/</link>
       <pubDate>Wed, 13 Dec 2017 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/elections2017/</guid>
+      <guid>http://info.cool-cat.org/post/elections2017/</guid>
       <description>&lt;p&gt;Elections were held during the December meeting of the COOL Directors. Congratulations to our new leaders!&lt;/p&gt;
 
 &lt;ul&gt;
@@ -189,10 +189,10 @@
     
     <item>
       <title>RightClick 2017</title>
-      <link>https://dzoladz.github.io/cool-info/post/rightclick2017/</link>
+      <link>http://info.cool-cat.org/post/rightclick2017/</link>
       <pubDate>Wed, 15 Nov 2017 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/rightclick2017/</guid>
+      <guid>http://info.cool-cat.org/post/rightclick2017/</guid>
       <description>&lt;p&gt;Two representatives from the Consortium of Ohio Libraries, Joe Knueven, Director of Germantown Public Library, and Derek Zoladz, Project Coordinator for the Consortium of Ohio Libraries, will be speaking at RightClick: The Library IT Idea Exchange Conference. Sponsored by the Ohio Library Councel&amp;rsquo;s Information Technology Division, this one-day conference for IT professionals, administrators and support staff will be held at the State Library of Ohio in downtown Columbus.&lt;/p&gt;
 
 &lt;p&gt;Here are the summaries for each presentation. We&amp;rsquo;ll see you there!&lt;/p&gt;
@@ -215,10 +215,10 @@
     
     <item>
       <title>Technology</title>
-      <link>https://dzoladz.github.io/cool-info/technology/technology/</link>
+      <link>http://info.cool-cat.org/technology/technology/</link>
       <pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/technology/technology/</guid>
+      <guid>http://info.cool-cat.org/technology/technology/</guid>
       <description>
 
 &lt;p&gt;The Consortium of Ohio Libraries integrates a broad spectrum of open source technology to support day-to-day library operations, while collaborating with a carefully curated set of technology partners to provide a superior quality of service to our growing library community.&lt;br /&gt;
@@ -252,20 +252,20 @@
     
     <item>
       <title>EIC 2017</title>
-      <link>https://dzoladz.github.io/cool-info/post/eic-2017/</link>
+      <link>http://info.cool-cat.org/post/eic-2017/</link>
       <pubDate>Tue, 03 May 2016 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/eic-2017/</guid>
+      <guid>http://info.cool-cat.org/post/eic-2017/</guid>
       <description>&lt;p&gt;The Greater Cincinnati area, namely, Covington, KY, has been selected as the location for the 2017 Evergreen International Conference. The proposal was developed by Joe Knueven, director of the Germantown Public Library, and is a multi-state collaborative effort including the Consortium of Ohio Libraries, Asbury Theological Seminary (KY), Asbury University (KY), Kenton County Public Library (KY), and Evergreen Indiana. Knueven has also been named chair of the conference committee and will oversee the planning and implementation of the event. For more information about the Evergreen ILS, visit &lt;a href=&#34;http://evergreen-ils.org&#34;&gt;http://evergreen-ils.org&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Floating in the Most Peculiar Way</title>
-      <link>https://dzoladz.github.io/cool-info/post/floating/</link>
+      <link>http://info.cool-cat.org/post/floating/</link>
       <pubDate>Fri, 15 Apr 2016 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/floating/</guid>
+      <guid>http://info.cool-cat.org/post/floating/</guid>
       <description>&lt;p&gt;A couple months ago, COOL started floating collections between independently governed and funded libraries. The goal is to reduce wait times for patrons at member libraries.&lt;/p&gt;
 
 &lt;p&gt;Here’s how it works:&lt;/p&gt;
@@ -284,15 +284,15 @@
     
     <item>
       <title>Authority Anyone?</title>
-      <link>https://dzoladz.github.io/cool-info/post/authority/</link>
+      <link>http://info.cool-cat.org/post/authority/</link>
       <pubDate>Mon, 20 Jul 2015 13:33:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/authority/</guid>
+      <guid>http://info.cool-cat.org/post/authority/</guid>
       <description>&lt;p&gt;One of the biggest factors in having a successful catalog for your library or consortium is having good records!&lt;/p&gt;
 
 &lt;p&gt;With this in mind, COOL has very recently partnered with Backstage Library Works (BSLW) and has instituted ongoing authority control for the catalog/database.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://dzoladz.github.io/cool-info/img/auth_control.png&#34; alt=&#34;image of a record&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://info.cool-cat.org/img/auth_control.png&#34; alt=&#34;image of a record&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ongoing, we will be loading both updated bibliographic records as well as authority records in an ongoing quarterly process.  At the same time, we’re instituting manual authority control procedures for locally created and eBook records.&lt;/p&gt;
 
@@ -302,30 +302,30 @@
     
     <item>
       <title>Move to Sequoia</title>
-      <link>https://dzoladz.github.io/cool-info/post/sequoia/</link>
+      <link>http://info.cool-cat.org/post/sequoia/</link>
       <pubDate>Thu, 15 Jan 2015 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/sequoia/</guid>
+      <guid>http://info.cool-cat.org/post/sequoia/</guid>
       <description>&lt;p&gt;On January 13, COOL moved to Sequoia. For more information, visit: &lt;a href=&#34;http://esilibrary.com/what-we-do/sequoia&#34;&gt;http://esilibrary.com/what-we-do/sequoia&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Upgrade to 2.7</title>
-      <link>https://dzoladz.github.io/cool-info/post/upgrade2-7/</link>
+      <link>http://info.cool-cat.org/post/upgrade2-7/</link>
       <pubDate>Thu, 20 Nov 2014 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/upgrade2-7/</guid>
+      <guid>http://info.cool-cat.org/post/upgrade2-7/</guid>
       <description>&lt;p&gt;COOL will be upgrading to Evergreen 2.7 this December. The 2.7 version includes a Web-based staff interface that allows staff to turn any device with Internet access and a Web browser into a staff client. We will be able to perform circulation almost anywhere we need to with little effort.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Principles of Cooperation</title>
-      <link>https://dzoladz.github.io/cool-info/policy/principles/</link>
+      <link>http://info.cool-cat.org/policy/principles/</link>
       <pubDate>Thu, 21 Aug 2014 10:31:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/policy/principles/</guid>
+      <guid>http://info.cool-cat.org/policy/principles/</guid>
       <description>&lt;p&gt;&lt;br/&gt;
 &lt;br/&gt;&lt;/p&gt;
 
@@ -357,10 +357,10 @@
     
     <item>
       <title>Living in Ohio</title>
-      <link>https://dzoladz.github.io/cool-info/post/ohio/</link>
+      <link>http://info.cool-cat.org/post/ohio/</link>
       <pubDate>Fri, 09 May 2014 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/ohio/</guid>
+      <guid>http://info.cool-cat.org/post/ohio/</guid>
       <description>&lt;p&gt;What makes Ohio such a great state to live in?&lt;/p&gt;
 
 &lt;p&gt;Check out number eight:
@@ -370,13 +370,13 @@
     
     <item>
       <title>Hello Boston!</title>
-      <link>https://dzoladz.github.io/cool-info/post/boston2/</link>
+      <link>http://info.cool-cat.org/post/boston2/</link>
       <pubDate>Mon, 24 Mar 2014 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/boston2/</guid>
+      <guid>http://info.cool-cat.org/post/boston2/</guid>
       <description>&lt;p&gt;COOL members just returned from the 2014 Evergreen International Conference in Boston. It was such a great event. We built relationships with Evergreen users from all over the world, we discussed upcoming software features, and we improved our knowledge of the software. COOL also co-presented a tutorial on reporting and participated in a welcome panel.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://dzoladz.github.io/cool-info/img/eic2014.jpg&#34; alt=&#34;Evergreen Conference 2014&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://info.cool-cat.org/img/eic2014.jpg&#34; alt=&#34;Evergreen Conference 2014&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Events like this reiterate that Evergreen is more than just an ILS; it is a community of librarians, developers, etc., working together to build the best library experience ever. We’re all looking forward to the 2015 EIC.&lt;/p&gt;
 
@@ -386,10 +386,10 @@
     
     <item>
       <title>Welcome Marvin</title>
-      <link>https://dzoladz.github.io/cool-info/post/marvin/</link>
+      <link>http://info.cool-cat.org/post/marvin/</link>
       <pubDate>Tue, 25 Feb 2014 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/marvin/</guid>
+      <guid>http://info.cool-cat.org/post/marvin/</guid>
       <description>&lt;p&gt;COOL would like to welcome Marvin Memorial Public Library in Shelby to COOL-CAT. On February 20, Marvin Memorial went live, bringing the total membership to eleven libraries with approximately 580,000 items in the system. To see a full list of members and a map of locations, go to &lt;a href=&#34;http://info.cool-cat.org/#member-libraries&#34;&gt;http://info.cool-cat.org/#member-libraries&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;COOL is running on Evergreen, the open source ILS, and is supported by OHIONET out of Columbus, Ohio. If you have any questions about Evergreen or joining COOL, please feel free to contact Lisa Murray, consortium chair at 419-864-8181 or lmurray@cardlinc.org.&lt;/p&gt;
@@ -398,11 +398,11 @@
     
     <item>
       <title>COOL in Boston</title>
-      <link>https://dzoladz.github.io/cool-info/post/boston/</link>
+      <link>http://info.cool-cat.org/post/boston/</link>
       <pubDate>Mon, 24 Feb 2014 11:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/post/boston/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://dzoladz.github.io/cool-info/img/econ2014.gif&#34; alt=&#34;Conference logo&#34; /&gt;&lt;/p&gt;
+      <guid>http://info.cool-cat.org/post/boston/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://info.cool-cat.org/img/econ2014.gif&#34; alt=&#34;Conference logo&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;COOL will be representing Ohio libraries in two presentations at the 2014 Evergreen International Conference in Boston this March. One session is a tutorial on reports in Evergreen and the second is a panel discussion on migrating to Evergreen. To see a full list of programs, go to &lt;a href=&#34;http://evergreen-ils.org/conference/eg14/schedule/&#34;&gt;http://evergreen-ils.org/conference/eg14/schedule/&lt;/a&gt;.&lt;/p&gt;
 </description>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Policies on Consortium of Ohio Libraries</title>
-    <link>https://dzoladz.github.io/cool-info/policy/</link>
+    <link>http://info.cool-cat.org/policy/</link>
     <description>Recent content in Policies on Consortium of Ohio Libraries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Consortium of Ohio Libaries</copyright>
     <lastBuildDate>Thu, 26 Apr 2018 14:04:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dzoladz.github.io/cool-info/policy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://info.cool-cat.org/policy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bylaws</title>
-      <link>https://dzoladz.github.io/cool-info/policy/bylaws/</link>
+      <link>http://info.cool-cat.org/policy/bylaws/</link>
       <pubDate>Thu, 26 Apr 2018 14:04:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/policy/bylaws/</guid>
+      <guid>http://info.cool-cat.org/policy/bylaws/</guid>
       <description>NAME AND MISSION  The Name of this organization shall be Consortium of Ohio Libraries (COOL). The mission of the Consortium of Ohio Libraries is to meet the information needs of Ohioans through the cooperation of independent libraries.  MEMBERSHIP  Members. There shall be one class of membership in COOL. Membership is held by the participating library. Each member library is a voting member with one vote on the Executive Board.</description>
     </item>
     
     <item>
       <title>Principles of Cooperation</title>
-      <link>https://dzoladz.github.io/cool-info/policy/principles/</link>
+      <link>http://info.cool-cat.org/policy/principles/</link>
       <pubDate>Thu, 21 Aug 2014 10:31:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/policy/principles/</guid>
+      <guid>http://info.cool-cat.org/policy/principles/</guid>
       <description>COOL will have a union catalog COOL will have a combined patron database. All libraries will be able to update patron information from all other libraries to make keeping up with new contact information easier. COOL libraries will update patron information annually to keep current contact information. COOL libraries will contribute the expertise of their staff in IT, cataloging, training, etc. COOL libraries will keep their own library cards, but the barcodes will be recognized in all consortium libraries.</description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Consortium of Ohio Libraries</title>
-    <link>https://dzoladz.github.io/cool-info/home/</link>
+    <link>http://info.cool-cat.org/home/</link>
     <description>Recent content in Homes on Consortium of Ohio Libraries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Consortium of Ohio Libaries</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dzoladz.github.io/cool-info/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://info.cool-cat.org/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://dzoladz.github.io/cool-info/home/about/</link>
+      <link>http://info.cool-cat.org/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/home/about/</guid>
+      <guid>http://info.cool-cat.org/home/about/</guid>
       <description>Open Source, Open Access, Unlimited Possibilities
 Consortium of Ohio Libraries (COOL) is comprised of independent libraries that are striving to provide high-quality library services while being more efficient and prudent with diminishing public resources.
 COOL is governed by a set of Bylaws and Principles of Cooperation.</description>
@@ -25,28 +25,28 @@ COOL is governed by a set of Bylaws and Principles of Cooperation.</description>
     
     <item>
       <title>News</title>
-      <link>https://dzoladz.github.io/cool-info/home/posts/</link>
+      <link>http://info.cool-cat.org/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/home/posts/</guid>
+      <guid>http://info.cool-cat.org/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Member Libraries</title>
-      <link>https://dzoladz.github.io/cool-info/home/member-libraries/</link>
+      <link>http://info.cool-cat.org/home/member-libraries/</link>
       <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/home/member-libraries/</guid>
+      <guid>http://info.cool-cat.org/home/member-libraries/</guid>
       <description> Arcanum Public Library Blanchester Public Library Cardington-Lincoln Public Library Community Library Germantown Public Library J.R. Clarke Public Library Marvin Memorial Public Library Mount Gilead Public Library Selover Public Library Worch Memorial Public Library Wornstaff Memorial Library   </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://dzoladz.github.io/cool-info/home/contact/</link>
+      <link>http://info.cool-cat.org/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dzoladz.github.io/cool-info/home/contact/</guid>
+      <guid>http://info.cool-cat.org/home/contact/</guid>
       <description>COOL welcomes new members. If you are interested becoming a COOL library, or if you want more information on the consortium or Evergreen, contact Matt Polcyn, Director of Technology Services at OhioNET.</description>
     </item>
     
