@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Consortium of Ohio Libaries</copyright>
-    <lastBuildDate>Thu, 17 May 2018 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jun 2018 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dzoladz.github.io/cool-info/tags/members/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Due Date Reminders</title>
+      <link>https://dzoladz.github.io/cool-info/post/sms-reminders/</link>
+      <pubDate>Mon, 11 Jun 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://dzoladz.github.io/cool-info/post/sms-reminders/</guid>
+      <description>On Monday June 11th, COOL implemented a new SMS courtesy notification service for patrons. A text message reminder will be sent out 3 days prior to the due date of any circulating item. Patrons must opt-in to receiving SMS notifications, as well as have an SMS text number and carrier declared in their accounts to take advantage of this new notification.</description>
+    </item>
     
     <item>
       <title>COOL Welcomes Galion Public Library</title>

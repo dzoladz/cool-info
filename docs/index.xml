@@ -11,6 +11,16 @@
     <atom:link href="/cool-info/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Due Date Reminders</title>
+      <link>https://dzoladz.github.io/cool-info/post/sms-reminders/</link>
+      <pubDate>Mon, 11 Jun 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://dzoladz.github.io/cool-info/post/sms-reminders/</guid>
+      <description>&lt;p&gt;On Monday June 11th, COOL implemented a new SMS courtesy notification service for patrons. A text message reminder will be sent out 3 days prior to the due date of any circulating item. Patrons must opt-in to receiving SMS notifications, as well as have an SMS text number and carrier declared in their accounts to take advantage of this new notification.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>COOL Welcomes Galion Public Library</title>
       <link>https://dzoladz.github.io/cool-info/post/galion/</link>
       <pubDate>Thu, 17 May 2018 11:00:00 +0000</pubDate>
@@ -385,22 +395,6 @@
 
 &lt;p&gt;Check out number eight:
 &lt;a href=&#34;http://www.movoto.com/oh/only-people-from-ohio-understand/&#34;&gt;http://www.movoto.com/oh/only-people-from-ohio-understand/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello Boston!</title>
-      <link>https://dzoladz.github.io/cool-info/post/boston2/</link>
-      <pubDate>Mon, 24 Mar 2014 11:00:00 +0000</pubDate>
-      
-      <guid>https://dzoladz.github.io/cool-info/post/boston2/</guid>
-      <description>&lt;p&gt;COOL members just returned from the 2014 Evergreen International Conference in Boston. It was such a great event. We built relationships with Evergreen users from all over the world, we discussed upcoming software features, and we improved our knowledge of the software. COOL also co-presented a tutorial on reporting and participated in a welcome panel.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://dzoladz.github.io/cool-info/img/eic2014.jpg&#34; alt=&#34;Evergreen Conference 2014&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Events like this reiterate that Evergreen is more than just an ILS; it is a community of librarians, developers, etc., working together to build the best library experience ever. We’re all looking forward to the 2015 EIC.&lt;/p&gt;
-
-&lt;p&gt;For more information about Evergreen or COOL, please contact Lisa Murray at lmurray@cardlinc.org or Chauncey Montgomery at chauncey@yourcl.org.&lt;/p&gt;
 </description>
     </item>
     
