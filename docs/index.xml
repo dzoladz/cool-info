@@ -11,6 +11,23 @@
     <atom:link href="/cool-info/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Upgrade to Release 3.1</title>
+      <link>https://dzoladz.github.io/cool-info/post/upgrade3-1/</link>
+      <pubDate>Wed, 29 Aug 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://dzoladz.github.io/cool-info/post/upgrade3-1/</guid>
+      <description>&lt;p&gt;On August 23, COOL upgraded to the 3.1 release of Evergreen. New features include search term highlighting in the public catalog and the ability to place multiple holds at once. This feature is extremely beneficial for book clubs and reading groups that need to place holds on multiple copies of a title.&lt;/p&gt;
+
+&lt;p&gt;The Consortium of Ohio Libraries contributed funding for the development of search term highlighting and indexing improvements to improve performance of keyword searches. Thanks to MassLNC for spearheading this project and to all of the development partners, including:
+- Bibliomation
+- C/W Mars
+- Evergreen Indiana
+- Georgia PINES
+- PAILS&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Due Date Reminders</title>
       <link>https://dzoladz.github.io/cool-info/post/sms-reminders/</link>
       <pubDate>Mon, 11 Jun 2018 11:00:00 +0000</pubDate>
@@ -382,19 +399,6 @@
 &lt;li&gt;Loan periods, including renewals, will conform to the borrowing library’s lending policies and will not exceed three months.&lt;/li&gt;
 &lt;/ol&gt;&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Living in Ohio</title>
-      <link>https://dzoladz.github.io/cool-info/post/ohio/</link>
-      <pubDate>Fri, 09 May 2014 11:00:00 +0000</pubDate>
-      
-      <guid>https://dzoladz.github.io/cool-info/post/ohio/</guid>
-      <description>&lt;p&gt;What makes Ohio such a great state to live in?&lt;/p&gt;
-
-&lt;p&gt;Check out number eight:
-&lt;a href=&#34;http://www.movoto.com/oh/only-people-from-ohio-understand/&#34;&gt;http://www.movoto.com/oh/only-people-from-ohio-understand/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
